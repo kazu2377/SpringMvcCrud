@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=4cEmPxJuP40&list=PLOiid1_Qchpi6POvS0E30YW6Wn0FU8
 　依存関係の更新をする際にエラーがでるがいったん気にしない
 　トムキャットは８を使用する
 　
+eclipseは最新２０２２
+JAVAは１７の最新
+トムキャットは８
